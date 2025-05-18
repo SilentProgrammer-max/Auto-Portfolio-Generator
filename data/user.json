@@ -1,0 +1,21 @@
+{
+  "name": "Ayesha",
+  "bio": "I am a passionate Data Scientist, Web Developer, and Tech Creator.",
+  "skills": ["Python", "Data Science", "Machine Learning", "Web Development"],
+  "projects": [
+    {
+      "title": "AI Resume Analyzer",
+      "description": "Analyzes resumes using NLP techniques",
+      "link": "https://github.com/AyeshaTechX/AI-Resume-Analyzer"
+    },
+    {
+      "title": "OSINT Toolkit",
+      "description": "An open-source intelligence gathering tool",
+      "link": "https://github.com/AyeshaTechX/Ayesha-OSINT-Toolkit"
+    }
+  ],
+  "contact": {
+    "email": "ayeshadatascientist9@gmail.com",
+    "github": "https://github.com/AyeshaTechX"
+  }
+}

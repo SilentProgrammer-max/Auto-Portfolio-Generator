@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ name }}'s Portfolio</title>
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>{{ name }}</h1>
+    <p>{{ bio }}</p>
+
+    <h2>Skills</h2>
+    <ul>
+      {{ skills }}
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+      {{ projects }}
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: {{ email }}</p>
+    <p>GitHub: <a href="{{ github }}">{{ github }}</a></p>
+  </div>
+</body>
+</html>
